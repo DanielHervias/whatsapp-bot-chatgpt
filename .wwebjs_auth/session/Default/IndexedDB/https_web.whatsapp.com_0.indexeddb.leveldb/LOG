@@ -1,0 +1,6 @@
+2023/06/25-17:52:29.755 58dc Reusing MANIFEST C:\Users\Daniel\Desktop\SmartStream\Whatsapp-chatbot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/06/25-17:52:29.755 58dc Recovering log #15
+2023/06/25-17:52:29.854 58dc Reusing old log C:\Users\Daniel\Desktop\SmartStream\Whatsapp-chatbot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000015.log 
+2023/06/25-17:59:23.593 2fbc Level-0 table #20: started
+2023/06/25-17:59:23.633 2fbc Level-0 table #20: 1599430 bytes OK
+2023/06/25-17:59:23.635 2fbc Delete type=0 #15

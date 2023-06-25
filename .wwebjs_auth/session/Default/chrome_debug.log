@@ -1,0 +1,6 @@
+[0625/175229.527:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[0625/175229.527:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'bluetooth'.", source:  (0)
+[0625/175241.117:INFO:CONSOLE(43)] "Uncaught (in promise) TypeError: Failed to execute 'put' on 'Cache': Partial response (status code 206) is unsupported", source: https://web.whatsapp.com/serviceworker.js (43)
+[0625/175241.120:INFO:CONSOLE(43)] "Uncaught (in promise) TypeError: Failed to execute 'put' on 'Cache': Partial response (status code 206) is unsupported", source: https://web.whatsapp.com/serviceworker.js (43)
+[0625/175243.687:INFO:CONSOLE(30)] "TypeError: Cannot read properties of undefined (reading 'toString')", source: https://web.whatsapp.com/vendor1~app.a91035d81a749b3d5627.js (30)
+[0625/175243.739:INFO:CONSOLE(30)] "TypeError: Cannot read properties of undefined (reading 'toString')", source: https://web.whatsapp.com/vendor1~app.a91035d81a749b3d5627.js (30)
