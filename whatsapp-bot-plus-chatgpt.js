@@ -1,3 +1,5 @@
+require('dotenv').config();
+
 const { Client, LocalAuth } = require('whatsapp-web.js');
 const axios = require('axios');
 
@@ -14,8 +16,7 @@ async function chatWithGPT(message) {
       },
       {
         headers: {
-          Authorization:
-            'Bearer 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',
+          Authorization: process.env.API_KEY,
           'Content-Type': 'application/json',
         },
       }
